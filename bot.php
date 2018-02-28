@@ -33,7 +33,7 @@ foreach ($client->parseEvents() as $event) {
                         'messages' => array(
                             array(
                                 'type' => 'text',
-                                'text' => 'Hello your message id is '.$message['id']
+                                'text' => 'Hello your message id is '.$message['id'] // this message will be send to user as replied message
                             )
                         )
                     ));
