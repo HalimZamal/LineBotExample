@@ -1,3 +1,6 @@
+https://travis-ci.org/HalimZamal/LineBotExample.svg?branch=master
+
+
 # LineBotExample
 For example of line chat bot use PHP use Line Messaging SDK From https://github.com/line/line-bot-sdk-php 
 
